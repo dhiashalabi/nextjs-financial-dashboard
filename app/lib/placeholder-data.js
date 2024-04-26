@@ -12,9 +12,9 @@ const users = [
 const customers = [
   {
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
-    name: 'Delba de Oliveira',
-    email: 'delba@oliveira.com',
-    image_url: '/customers/delba-de-oliveira.png',
+    name: 'Dhia Alhaq Shalabi',
+    email: 'dhia.salabi@gmail.com',
+    image_url: '/customers/dhia-alhaq-shalabi.jpg',
   },
   {
     id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
